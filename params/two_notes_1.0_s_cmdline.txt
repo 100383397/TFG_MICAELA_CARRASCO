@@ -1,0 +1,1 @@
+./stdp_sounds.py --input_spikes_file test_inputs/two_notes_1.0_s.pickle
